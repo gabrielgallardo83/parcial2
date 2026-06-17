@@ -18,7 +18,7 @@
 
 2. Entrar a la carpeta:
 ```bash
-   cd parcial2
+   cd parcial2-software
 ```
 
 3. Construir la imagen:
